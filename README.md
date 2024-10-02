@@ -17,7 +17,7 @@ Con lo anterior claro, el proyecto es posible de realizar de manera sencilla.
   - [Instructions](#instructions)
   - [Proyecto Aprobado](#proyecto-aprobado)
   - [All Tests Passed](#all-tests-passed)
-  - [My Code Solution](#my-code-solution)
+  - [My Solution Code](#my-solution-code)
 
 ## Instructions
 
@@ -31,7 +31,7 @@ Con lo anterior claro, el proyecto es posible de realizar de manera sencilla.
 
 ![All Tests Passed](./screenshots/all_tests_passed.webp)
 
-## My Code Solution
+## My Solution Code
 
 ```py
 import copy
